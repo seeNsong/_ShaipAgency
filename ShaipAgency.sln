@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaipAgency", "ShaipAgency\ShaipAgency.csproj", "{7A35E676-B05B-43D6-8B5F-C7333387EFC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevExpress.Blazor.DocumentMetadata", "DevExpress.Blazor.DocumentMetadata\DevExpress.Blazor.DocumentMetadata.csproj", "{CABDD35A-4B93-422F-85C1-16B47668FDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A35E676-B05B-43D6-8B5F-C7333387EFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A35E676-B05B-43D6-8B5F-C7333387EFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A35E676-B05B-43D6-8B5F-C7333387EFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A35E676-B05B-43D6-8B5F-C7333387EFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABDD35A-4B93-422F-85C1-16B47668FDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABDD35A-4B93-422F-85C1-16B47668FDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABDD35A-4B93-422F-85C1-16B47668FDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABDD35A-4B93-422F-85C1-16B47668FDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC1A2BC2-B7A6-4D69-9C8A-8A0FC1F0D3DF}
+	EndGlobalSection
+EndGlobal
